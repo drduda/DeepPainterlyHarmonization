@@ -1,5 +1,7 @@
 # Deep Painterly Harmonization
-This is the first implementation of [Deep Painterly Harmonization](https://arxiv.org/abs/1804.03189) in Tensorflow 2. [Our version](https://github.com/drduda/DeepPainterlyHarmonization/blob/master/Model_of_Deep_Painterly_Harmonization.ipynb) is optimized for running with Google Colab. Just click *Run everything* to explore it interactively!  ![blub](https://content.spiceworksstatic.com/service.community/p/post_images/0000339009/5c1652fa/attached_image/Spiceworks.jpg)
+This is the first implementation of [Deep Painterly Harmonization](https://arxiv.org/abs/1804.03189) in Tensorflow 2. [Our version](https://github.com/drduda/DeepPainterlyHarmonization/blob/master/Model_of_Deep_Painterly_Harmonization.ipynb) is optimized for running with Google Colab. Just click *Run everything* to explore it interactively!  
+
+![blub](https://content.spiceworksstatic.com/service.community/p/post_images/0000339009/5c1652fa/attached_image/Spiceworks.jpg)
 |:--:| 
 | *Deep Painterly Harmonization adjust the stlye of an image onto a sticker* |
 
